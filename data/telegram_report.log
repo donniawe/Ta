@@ -1,12 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-10 23:10:21
+Timestamp: 2025-08-10 23:57:45
 Total Channels: 36
 Successful Scrapes: 34
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
+v2raying: 268 configs
 kanfig_majani: 252 configs
-v2raying: 239 configs
 wedbazvpn: 224 configs
 freakconfig: 187 configs
 prrofile_purple: 158 configs
@@ -15,29 +15,29 @@ Hope_Net: 79 configs
 ai_duet: 75 configs
 v2ray_sub: 62 configs
 V2ry_Proxy: 51 configs
-v2rayngvpn: 48 configs
+v2rayngvpn: 46 configs
 V2ray_Collector: 39 configs
-bored_vpn: 36 configs
+bored_vpn: 34 configs
 NetAccount: 30 configs
 spikevpn: 24 configs
 vistav2ray: 24 configs
 outlinevpn_ru: 20 configs
 v2ray_free_conf: 20 configs
-v2raych: 20 configs
 v2rayvpnchannel: 20 configs
 v2rayweb: 20 configs
 vmesc: 20 configs
 vmess_ir: 20 configs
 vpnfail_v2ray: 20 configs
+v2raych: 19 configs
 vpnplusee_free: 19 configs
-KINGOFV2RAY: 17 configs
+KINGOFV2RAY: 18 configs
+DirectVPN: 16 configs
 NETMelliAnti: 16 configs
-DirectVPN: 14 configs
-PrivateVPNs: 14 configs
-zerobaipiao: 14 configs
-proxy_mtproto_vpns_free: 13 configs
-v2rayfree: 13 configs
-vpns: 13 configs
-DailyV2Config: 11 configs
+PrivateVPNs: 16 configs
+proxy_mtproto_vpns_free: 14 configs
+v2rayfree: 14 configs
+vpns: 14 configs
+zerobaipiao: 13 configs
+DailyV2Config: 5 configs
 
 --- Failed Channels ---
